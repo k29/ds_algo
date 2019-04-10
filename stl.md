@@ -7,7 +7,7 @@
 
 ### Initialisation
 
-```C++
+```cpp
 vector<int> v1;
 vector<int> v2 = v1; // make a copy
 vector<int> v3(v1); // identical to v2's init above
